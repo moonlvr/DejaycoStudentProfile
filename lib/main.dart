@@ -38,7 +38,7 @@ class _ProfileScreenState extends State<ProfileScreen> {
   final String age = "19";
   final String birthday = "October 27, 2006";
   final String address = "St. Joseph, Cabuyao Laguna";
-  final String hobby = "Watching kdrama";
+  final String hobby = "Watching kdrama and drawing";
   final String motto = "Small steps everyday";
   final String course = "BS Information Technology";
   final String yearLevel = "3rd Year";
